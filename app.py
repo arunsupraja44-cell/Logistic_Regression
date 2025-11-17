@@ -59,3 +59,6 @@ if st.button("Predict"):
         st.error("Malignant (Cancer Positive)")
     else:
         st.success("Benign (Cancer Negative)")
+
+st.caption("Powered by Supraja ")
+
